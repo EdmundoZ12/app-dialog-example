@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="placeholder">Ingresa tu mensaje ...</string>
+
+    <!-- Elementos del Chat -->
+    <string name="mensajedevoz"> Di algo en el micrófono. </string>
+    <string name="mensajedevoznoadmitido"> Tu teléfono no es compatible con la función de micrófono. </string>
+    <string name="audio_no_se_entiende"> No puedo entender lo que dijiste, dilo de nuevo. </string>
+    <string name="ingresa_mensaje"> Por Favor, ingresa un mensaje. </string>
+</resources>
